@@ -1,0 +1,5 @@
+Title	Director_Name	Release_Year
+My War	Eren Yeager	2019
+Red Swan	Eren Yeager	2020
+Men in the Roses	Karina Hooper	2021
+Sorcerer of Spirit	Ariel Flores	2023

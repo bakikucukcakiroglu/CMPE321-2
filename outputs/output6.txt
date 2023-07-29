@@ -1,0 +1,8 @@
+Type	Film Count
+Horror	7
+Romance	6
+Mystery	6
+Fantasy	6
+Drama	4
+Comedy	4
+Action	4

@@ -1,0 +1,6 @@
+Genre	Director_Name	Awards
+Action	Eren Yeager	1
+Drama	Karina Hooper	3
+Horror	Eren Yeager	7
+Mystery	Ariel Flores	2
+Romance	Vicki Burch	3

@@ -1,0 +1,7 @@
+--The first subquery returns the maximum number of films that is recorded by a director for each genre. 
+--The second subquery returns the number of films of each director for each genre. 
+--Inner join of the first and the second subqueries gives the director with the maximum number of films for corresponding genre. 
+--Only the first subquery would work if the assumption that the maximum number of films record holder is unique for each genre had been guaranteed to hold. 
+--As keyword is used to show the second column of the output as 'Film_Count'
+
+SELECT T2.Type AS Genre_Type, T2.Director_Name, T2.Film_Count FROM (SELECT T.Genre, MAX(T.Film_Count) AS Film_Count FROM (SELECT F.Genre, F.Director, COUNT(*) AS Film_Count FROM Film F GROUP BY F.Director, F.Genre)T GROUP BY T.Genre)T1 INNER JOIN (SELECT F.Genre, G.Type, F.Director, D.Director_Name, COUNT(*) AS Film_Count FROM Film F, Genre G, Director D WHERE F.Director=D.Director_ID AND F.Genre=G.Genre_ID GROUP BY F.Director, F.Genre)T2 ON T1.Genre=T2.Genre AND T1.Film_Count=T2.Film_Count WHERE (T2.Director,T2.Genre) NOT IN (SELECT F.Director, F.Genre FROM Award A, Film F WHERE A.Awarded_Film=F.Film_ID) ORDER BY T2.Type ASC, T2.Director_Name ASC                                   

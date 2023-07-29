@@ -1,0 +1,11 @@
+Film_ID	Title	Director	Genre	Release_Year	Budget	Director_ID	Director_Name	Favorite_Genre
+2	The Titan in the Dark	10	2	2014	5455000	10	Eren Yeager	2
+6	Dark Good Looks	2	3	2017	30000000	2	Katy Walters	3
+8	The Laughing Ice	5	4	2018	3700000	5	Lavern Brock	4
+9	After Sun	8	2	2008	4200000	8	Karina Hooper	2
+12	Hugo	6	4	2011	3700000	6	 Martin Scorsese	4
+15	Willow of Heart	5	4	2002	4400000	5	Lavern Brock	4
+30	The School's Valley	7	1	1996	3800000	7	Millie Schroeder	1
+31	Guren no Yumiya	10	2	2017	40000000	10	Eren Yeager	2
+33	Red Swan	10	2	2020	72000000	10	Eren Yeager	2
+34	The Rumbling	10	2	2021	90000000	10	Eren Yeager	2

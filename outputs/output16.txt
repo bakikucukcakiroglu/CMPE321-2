@@ -1,0 +1,16 @@
+Director_Name	Avg_Budget
+Ariel Flores	59666666.6666667
+Eren Yeager	58836428.5714286
+Odell Salas	45000000.0
+Karina Hooper	43655000.0
+Vicki Burch	42500000.0
+ Martin Scorsese	36240000.0
+Katy Walters	16150000.0
+Wilton Barrera	6900000.0
+Claire Bullock	5800000.0
+Lavern Brock	5233333.33333333
+Miriam Hale	4600000.0
+Anastasia Wiley	4500000.0
+Millie Schroeder	3900000.0
+Ramiro Long	2695000.0
+Felix Fox	500000.0

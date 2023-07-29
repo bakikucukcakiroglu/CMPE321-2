@@ -1,0 +1,4 @@
+Genre_Type	Director_Name	Film_Count
+Comedy	Claire Bullock	1
+Fantasy	Ariel Flores	1
+Fantasy	Karina Hooper	1

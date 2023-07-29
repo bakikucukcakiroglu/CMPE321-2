@@ -1,0 +1,24 @@
+Director_Name	Release_Year	Max_Budget
+ Martin Scorsese	1982	20000000
+Millie Schroeder	1996	3800000
+Wilton Barrera	1997	7000000
+Lavern Brock	1998	7600000
+Ariel Flores	1999	2000000
+Ramiro Long	2001	890000
+Anastasia Wiley	2002	4500000
+Vicki Burch	2003	5000000
+Ariel Flores	2004	85000000
+Ramiro Long	2007	4500000
+Wilton Barrera	2008	6800000
+Katy Walters	2009	2300000
+ Martin Scorsese	2011	3700000
+Miriam Hale	2012	4600000
+ Martin Scorsese	2013	5500000
+Eren Yeager	2014	5455000
+Vicki Burch	2017	80000000
+Eren Yeager	2018	50400000
+Eren Yeager	2019	67000000
+Karina Hooper	2020	90000000
+Eren Yeager	2021	90000000
+Eren Yeager	2022	87000000
+ Martin Scorsese	2023	96000000
